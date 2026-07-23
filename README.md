@@ -28,4 +28,4 @@ Desenvolvi um agente automatizado capaz de responder aos comentários do YouTube
 ## 📁 Arquivos do Projeto
 
 * 📄 **Apresentação em PDF:** [Acessar Documentação](Assistente-IA-de-Respostas-e-Engajamento-no-YouTube.pdf)
-* ⚙️ **Blueprint para Importação:** Arquivo `.json` disponível na pasta `exports/`.
+* ⚙️ **Blueprint para Importação:** [Baixar Blueprint (.json)](Social%20Media%20Comment%20Responder.blueprint.json)
