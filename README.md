@@ -27,5 +27,5 @@ Desenvolvi um agente automatizado capaz de responder aos comentários do YouTube
 
 ## 📁 Arquivos do Projeto
 
-* 📄 **Apresentação em PDF:** [Acessar Documentação](docs/Projeto%201%20(Make)_Agente%20Intelig...)
+* 📄 **Apresentação em PDF:** [Acessar Documentação](Projeto%201%20(Make)_Agente%20Inteligente%20de%20Automação%20e%20Moderação%20de%20Engajamento%20no%20Youtube.pdf)
 * ⚙️ **Blueprint para Importação:** Arquivo `.json` disponível na pasta `exports/`.
