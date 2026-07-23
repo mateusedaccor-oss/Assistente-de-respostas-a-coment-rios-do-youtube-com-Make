@@ -4,10 +4,9 @@ Desenvolvi um agente automatizado capaz de responder aos comentários do YouTube
 
 ---
 
-## 📸 Diagrama do Fluxo
+## 📸 Visão geral do fluxo
 
-![Fluxo do Make](assets/nome-da-sua-imagem.png)
-
+![Fluxo do Make](Fluxo%20principal.png)
 ---
 
 ## 🎯 Solução e Recursos
